@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "kind": "html",
+  "title": "business-registration-platform.html",
+  "entry": "business-registration-platform.html",
+  "renderer": "html",
+  "status": "complete",
+  "exports": [
+    "html",
+    "pdf",
+    "zip"
+  ],
+  "createdAt": "2026-08-31T05:23:28.150Z",
+  "updatedAt": "2026-08-31T05:23:28.150Z",
+  "metadata": {
+    "inferred": true,
+    "reconciled": true
+  }
+}
